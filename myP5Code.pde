@@ -11,9 +11,35 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  
+  fill(70, 37, 37) ;
+  //stem
+  fill(220, 236, 91 )
+line(200,200,100,20)
+triangle(123,62,85,16,98,13)
 
-  
+//back grapes
+fill(87, 151, 43 )
+stroke(135, 204, 87 )
+ellipse(229,116,50,60)
+ellipse(190,230,60,70)
+ellipse(190,150,60,70)
+ellipse(160,180,60,80)
+ellipse(220,230,50,70)
+ellipse(243,170,50,70)
+ellipse(277,197,50,80)
+ellipse(240,220,50,70)
+ellipse(269,149,50,60)
+ellipse (228,270,50,60)
+ellipse(268,259,50,60)
+// front grapes\
+fill(134, 213, 79)
+
+ellipse(200,200,70,60)
+ellipse(255,289,50,60)
+ellipse(298,298,50,60)
+  ellipse(296,240,50,60)
+  ellipse(181,100,50,60)
+  ellipse(140,120,50,60)
 
 }
 
